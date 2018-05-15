@@ -1,4 +1,4 @@
-# Quill String Normalizer
+# Quill Grammar New
 
 - TypeScript 2.2
 - Webpack 2
@@ -34,10 +34,6 @@ Build (Webpack or Rollup)
 npm run build
 npm run build:rollup
 ```
-
-### Using the Normalizer
-
-This package exports a function called stringNormalize, which can be called on a string and will standardize punctuation.
 
 ## Memento (Steps)
 
